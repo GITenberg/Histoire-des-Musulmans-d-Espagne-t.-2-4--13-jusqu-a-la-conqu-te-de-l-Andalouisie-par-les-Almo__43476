@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41035'
     url: http://www.gutenberg.org/2009/agents/41035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43476#Histoire-des-Musulmans-d-Espagne-t.-2-4--13-jusqu-a-la-conqu-te-de-l-Andalouisie-par-les-Almo_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2013-08-15'
 gutenberg_type: Text
