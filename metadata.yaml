@@ -1,0 +1,33 @@
+_repo: Histoire-des-Musulmans-d-Espagne-t.-2-4--13-jusqu-a-la-conqu-te-de-l-Andalouisie-par-les-Almo__43476
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43476-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dozy, Reinhart Pieter Anne
+    aliases:
+    - Dozi, R.
+    - Dozy, R. P. A. (Reinhart Pieter Anne)
+    birthdate: 1820
+    deathdate: 1883
+    gutenberg_agent_id: '41035'
+    url: http://www.gutenberg.org/2009/agents/41035
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2013-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43476'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- 711-1516'
+- !lcsh 'Islamic civilization'
+- !lcc 'DP'
+- !lcsh 'Muslims -- Spain -- History'
+title: "Histoire des Musulmans d'Espagne, t. 2/4\r\njusqu'a la conquête de l'Andalouisie\
+  \ par les Almoravides (711-110)"
+url: http://www.gutenberg.org/ebooks/43476
